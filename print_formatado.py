@@ -1,0 +1,5 @@
+nome = input("qual é o seu nome")
+idade = input("qual é a sua idade")
+print("o nome da pessoa é:",nome, "a idade da pessoa é",idade)
+print("----------------------------------")
+print(f"nome da pessoa: {nome}\ n idade da pessoa: {idade}")
